@@ -1,2 +1,1 @@
-# Fall2021CPPClass
-Fall 2021 C++ Class for Uni
+# Assignments are in different branches so I'm not flooding my GitHub account with tons of new repos
