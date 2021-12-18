@@ -1,0 +1,3 @@
+﻿  BattleSystem.cpp
+C:\Users\thego\Desktop\BattleSystem\BattleSystem.cpp(96,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BattleSystem.vcxproj -> C:\Users\thego\Desktop\BattleSystem\Debug\BattleSystem.exe
